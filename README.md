@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Jamacs/jamacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Using gh template for now!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a book project
+- 🌱 I’m currently re-learning markdown for that book project
+- 👯 I’m looking to collaborate on anything having to do with manuscripts and image interoperability
+- 🤔 I’m looking for help with Javascript Beowulf translation recs
+- 💬 Ask me about how I became a developer  
+- 📫 How to reach me: jessemcdowell652@gmail.com
+- 😄 Pronouns: him, he, his
+- ⚡ Fun fact: Johannes Kepler had to prove his mom wasn't a witch which is wack
+
