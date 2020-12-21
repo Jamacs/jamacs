@@ -2,7 +2,7 @@
 
 Using gh template for now!
 
-- 🔭 I’m currently working on a book project
+- 🔭 I’m currently working on a book project - The Wayfinder
 - 🌱 I’m currently re-learning markdown for that book project
 - 👯 I’m looking to collaborate on  manuscripts & image interoperability
 - 🤔 I’m looking for help with Javascript & Beowulf translation recs
